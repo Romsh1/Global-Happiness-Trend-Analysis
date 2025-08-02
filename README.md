@@ -11,7 +11,7 @@ This project explores global happiness trends over time using the **World Happin
 - 🔍 Perform exploratory data analysis (EDA) to identify global and regional trends
 - 🗺️ Visualize changes in happiness over time using interactive and static plots
 - 💡 Derive insights about the key drivers of happiness
-- 🧠 (Optional) Build a predictive model to estimate happiness scores based on key indicators
+- 🧠 (In future) Build a predictive model to estimate happiness scores based on key indicators
 
 ---
 
@@ -41,19 +41,16 @@ Each year contains a CSV file with rankings and scores based on:
 
 ---
 
-## 🧪 Work in Progress
+## 🖼️ Example Visualizations
 
-This project is currently under development.  
-🚧 Tasks in progress:
+### 📈 Average Happiness Score by Year
+![Average Happiness Score by Year](images/avg_score_by_year.png)
 
-- [x] Collect datasets from 2015 to 2023
-- [x] Clean and standardize data structure
-- [ ] Merge all datasets into a single DataFrame
-- [ ] Conduct EDA and visualizations
-- [ ] Create interactive visuals (e.g. time-series, heatmaps)
-- [ ] Build and evaluate optional prediction model
-- [ ] Document insights and findings
-- [ ] Finalize and polish the `README.md`
+### 🌟 Top 10 Happiest Countries (2015–2022)
+![Top 10 Happiest Countries](images/top10_happiest_countries.png)
+
+### 🔥 Correlation Between Factors
+![Correlation Heatmap](images/correlation_betn_happiness_factors.png)
 
 ---
 
@@ -67,9 +64,12 @@ This project is currently under development.
 
 ---
 
-## 📷 Visuals (Coming Soon)
+📌 Insights
+🌟 Finland, Denmark, and Switzerland consistently rank highest in happiness.
 
-<!-- Will include graphs, charts, and maps here after EDA -->
+💰 Higher GDP, stronger social support, and freedom correlate strongly with happiness.
+
+📉 Some countries show declining trends due to health or social unrest.
 
 ---
 
