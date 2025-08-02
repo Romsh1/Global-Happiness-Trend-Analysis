@@ -1,4 +1,4 @@
-# 🌍 Global Happiness Trend Analysis (2015–2023)
+# 🌍 Global Happiness Trend Analysis (2015–2022)
 
 This project explores global happiness trends over time using the **World Happiness Report datasets** from 2015 to 2023. By analyzing and visualizing key factors such as GDP per capita, social support, life expectancy, and more, the project aims to uncover patterns and insights that influence happiness across countries and continents.
 
