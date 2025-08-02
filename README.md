@@ -50,7 +50,7 @@ Each year contains a CSV file with rankings and scores based on:
 ![Top 10 Happiest Countries](/top10_happiest_countries.png)
 
 ### 🔥 Correlation Between Factors
-![Correlation Heatmap](/correlation_betn_happiness_factors.png)
+![Correlation Heatmap](/correlation_btn_happiness_factors.png)
 
 ---
 
