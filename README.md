@@ -44,13 +44,13 @@ Each year contains a CSV file with rankings and scores based on:
 ## 🖼️ Example Visualizations
 
 ### 📈 Average Happiness Score by Year
-![Average Happiness Score by Year](images/avg_score_by_year.png)
+![Average Happiness Score by Year](/avg_score_by_year.png)
 
 ### 🌟 Top 10 Happiest Countries (2015–2022)
-![Top 10 Happiest Countries](images/top10_happiest_countries.png)
+![Top 10 Happiest Countries](/top10_happiest_countries.png)
 
 ### 🔥 Correlation Between Factors
-![Correlation Heatmap](images/correlation_betn_happiness_factors.png)
+![Correlation Heatmap](/correlation_betn_happiness_factors.png)
 
 ---
 
